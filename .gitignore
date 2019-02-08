@@ -1,0 +1,11 @@
+# Precompiled python scripts
+*.pyc
+
+# Images
+*.png
+
+# .swp file due to vim
+*.swp
+
+# Ignore cell images directory
+cell_images
